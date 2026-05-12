@@ -43,5 +43,7 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
+[Cricket_Prompts_Assignment.docx](https://github.com/user-attachments/files/27621033/Cricket_Prompts_Assignment.docx)
 
 RESULT: 
+Thus, the different types of prompts such as Straightforward Prompts, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting were successfully explored using cricket-related scenarios. The experiment helped in understanding how different prompting techniques guide AI to generate accurate, organized, and meaningful responses.
